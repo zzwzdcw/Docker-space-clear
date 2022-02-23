@@ -25,5 +25,4 @@
 7. 将此处文件路径（"C:\Users\zzwzd\AppData\Local\Docker\wsl\data\ext4.vhdx"）修改为您的文件路径（文件一般在C:\Users\你自己的用户名\AppData\Local\Docker\wsl\data下）
 8. 保存即可运行
 
-
-
+>测试如何使用一个pr
